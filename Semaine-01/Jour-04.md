@@ -3,8 +3,8 @@
 ### Jeudi 13/03/2025
 
 ### Git et Github :
-- [ ] Créer son premier repo Github
-- [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
+- [X] Créer son premier repo Github
+- [X] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
 
 ### Markdown :
 - [ ] Découverte du Markdown :
