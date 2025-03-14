@@ -9,13 +9,13 @@
 
 ### Git
 
-- [ ] Comprendre les termes "local", "origin" et "upstream"
-- [ ] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
-- [ ] Faire ses premiers pushs des daily-objectives sur son compte Github
-- [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
-  - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
-  - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
-  - [ ] Renommer son dernier commit en respectant cette convention
+- [x] Comprendre les termes "local", "origin" et "upstream"
+- [x] Faire ses premiers commits sur les daily objectives (plusieurs commits par jour pour les débutants)
+- [x] Faire ses premiers pushs des daily-objectives sur son compte Github
+- [x] Découvrir les conventions de nommage de son versionning avec la convention Angular :
+  - [x] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
+  - [x] https://www.conventionalcommits.org/fr/v1.0.0/
+  - [x] Renommer son dernier commit en respectant cette convention
 
 ### Github
 
