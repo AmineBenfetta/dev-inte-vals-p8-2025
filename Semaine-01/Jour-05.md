@@ -19,7 +19,7 @@
 
 ### Github
 
-- [ ] Pimper son profile Github (belle du village)
+- [x] Pimper son profile Github (belle du village)
 - [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
 - [x] Découvrir l'interface de Github :
     - [x] Pull Requests
