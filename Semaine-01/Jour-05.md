@@ -22,8 +22,8 @@
 - [ ] Pimper son profile Github (belle du village)
 - [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
 - [ ] Découvrir l'interface de Github :
-    - [ ] Pull Requests
-    - [ ] Branches
+    - [x] Pull Requests
+    - [x] Branches
     - [ ] Issues
     - [ ] Settings projet
     - [ ] Settings profile
